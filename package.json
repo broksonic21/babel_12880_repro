@@ -1,0 +1,16 @@
+{
+  "name": "babeltest",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "babel src"
+  },
+  "browserslist": "last 5 Chrome versions",
+  "devDependencies": {
+    "@babel/cli": "^7.13.0",
+    "@babel/plugin-proposal-class-properties": "^7.13.0",
+    "@babel/plugin-proposal-optional-chaining": "^7.13.8",
+    "@babel/preset-env": "^7.12.17",
+    "@stylelint/postcss-css-in-js": "0.37.2"
+  }
+}

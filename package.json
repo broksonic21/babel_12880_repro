@@ -10,7 +10,7 @@
     "@babel/cli": "^7.13.0",
     "@babel/plugin-proposal-class-properties": "^7.13.0",
     "@babel/plugin-proposal-optional-chaining": "^7.13.8",
-    "@babel/preset-env": "^7.12.17",
+    "@babel/preset-env": "^7.13.8",
     "@stylelint/postcss-css-in-js": "0.37.2"
   }
 }
